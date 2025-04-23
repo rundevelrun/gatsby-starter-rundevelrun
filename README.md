@@ -1,26 +1,30 @@
 # gatsby-starter-rundevelrun
 
-A minimal, SEO-friendly Gatsby blog starter — perfect for developers who want a clean, fast, and customizable blog setup.
+개발자를 위한 깔끔하고 빠르며 SEO에 최적화된 Gatsby 블로그 스타터입니다.  
+최대한 빠르게 블로그를 시작하고 싶은 분들에게 적합합니다.
 
 ![데모 스크린샷](screen.png)
 
-> 🇰🇷 [한국어 README 보기](README.ko.md)
+> 🇺🇸 [View README in English](README.en)
 
-## 🚀 Features
+## 🚀 주요 기능
 
-- 📝 Markdown-based content
-- ⚡ Blazing-fast performance (Gatsby + GraphQL)
-- 🧠 SEO optimized with meta tags and schema.org
-- 💻 Fully responsive, mobile-friendly
-- 🌙 Dark mode toggle
+- 📝 Markdown 기반 포스트 작성
+- ⚡ 초고속 빌드 성능 (Gatsby + GraphQL)
+- 🧠 메타태그 및 schema.org 기반 SEO 최적화
+- 💻 반응형 디자인 (모바일 완벽 대응)
+- 🌙 다크모드 지원
+- 😍 ***무료 실시간 방문자 카운터 및 대시보드 지원***
+    - [free-visitor-counter-api-dashboard](https://github.com/rundevelrun/free-visit-counter-api-dashboard)
+    - [free-visitor-counter-npm-package](https://github.com/rundevelrun/free-visit-counter)
 
-## 👀 Demo
+## 👀 데모
 
-👉 [Live Demo](https://6developer.com)
+👉 [실시간 데모 보기](https://6developer.com)
 
-This blog starter powers [6developer.com](https://6developer.com), a developer-focused tech blog.
+이 스타터는 실제 블로그 [6developer.com](https://6developer.com)에서 사용되고 있습니다.
 
-## 🛠️ Quick Start
+## 🛠️ 빠른 시작
 
 ```bash
 gatsby new my-blog https://github.com/rundevelrun/gatsby-starter-rundevelrun
@@ -28,32 +32,31 @@ cd my-blog
 gatsby develop
 ```
 
-## 🧩 Who is this for?
+## 🧩 이런 분께 추천합니다
 
-This starter is ideal for:
+- 블로그를 직접 개발하지 않고 바로 콘텐츠를 쓰고 싶은 개발자
+- 미니멀하고 빠른 블로그를 원하는 분
+- SEO와 퍼포먼스를 중요하게 생각하시는 분
 
-- Developers who want to focus on writing, not setup.
-- People looking for a minimal yet powerful blog.
-- Those who care about SEO and performance.
+## 🖼️ 사용 사례
 
-## 🖼️ Showcase
-
-Have you built something with this starter? Add your blog here via Pull Request!
+이 스타터를 기반으로 만든 블로그가 있다면 PR로 추가해주세요!
 
 - [6developer.com](https://6developer.com)
 - [pang-ho.github.io](http://pang-ho.github.io/)
 
-## 📚 Documentation
+## 📚 문서
 
-- [How to write posts](docs/writing.md) 
-- [How to customize the theme](docs/customization.md)
-- [Deployment guide](docs/deploy.md) 
+- [블로그 포스트 작성법](docs.ko/writing.md)
+- [스타터 커스터마이징 방법](docs.ko/customization.md)
+- [배포 가이드](docs.ko/deploy.md) 
 
-## 🙌 Contributing
+## 🙌 기여하기
 
-Contributions welcome! Feel free to submit PRs or open issues.
+이 저장소는 커뮤니티의 참여를 환영합니다!  
+버그 제보, 기능 제안, PR 모두 환영합니다.
 
-## ⭐ Star History
+## ⭐ Star 히스토리
 
 <a href="https://www.star-history.com/#rundevelrun/gatsby-starter-rundevelrun&Date">
  <picture>
@@ -63,4 +66,4 @@ Contributions welcome! Feel free to submit PRs or open issues.
  </picture>
 </a>
 
-If you find this useful, please consider starring the project ⭐️
+이 스타터가 도움이 되셨다면 Star로 응원해주세요! ⭐️

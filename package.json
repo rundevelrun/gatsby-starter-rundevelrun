@@ -6,6 +6,8 @@
   "version": "0.0.1",
   "author": "RUN:DEVEL:RUN",
   "dependencies": {
+    "@rundevelrun/free-visitor-counter": "^1.1.2",
+    "@tippyjs/react": "^4.2.6",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@giscus/react": "^3.0.0",
@@ -73,17 +75,8 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy-gh": "gatsby build && gh-pages -d public",
-    "deploy-gh-prefix-paths": "gatsby build --prefix-paths && gh-pages -d public",
-    "check:lint": "eslint . --ext .js,.jsx",
-    "fix:lint": "eslint . --fix --ext .js,.jsx",
-    "check:prettier": "prettier -c .",
-    "fix:prettier": "prettier -c --write ."
+    "deploy": "gatsby clean && gatsby build && gh-pages -d public"
   },
   "repository": {
     "type": "git",
