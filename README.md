@@ -44,6 +44,8 @@ gatsby develop
 
 - [6developer.com](https://6developer.com)
 - [pang-ho.github.io](http://pang-ho.github.io/)
+- [dhbang.co.kr](https://dhbang.co.kr/)
+- [stock-insights-hub.github.io](https://stock-insights-hub.github.io/)
 
 ## 📚 문서
 
