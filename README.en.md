@@ -45,6 +45,8 @@ Have you built something with this starter? Add your blog here via Pull Request!
 
 - [6developer.com](https://6developer.com)
 - [pang-ho.github.io](http://pang-ho.github.io/)
+- [dhbang.co.kr](https://dhbang.co.kr/)
+- [stock-insights-hub.github.io](https://stock-insights-hub.github.io/)
 
 ## 📚 Documentation
 
