@@ -16,7 +16,7 @@
 - 🌙 다크모드 지원
 - 😍 ***무료 실시간 방문자 카운터 및 대시보드 지원***
     - [free-visitor-counter-api-dashboard](https://github.com/rundevelrun/free-visit-counter-api-dashboard)
-    - [free-visitor-counter-npm-package](https://github.com/rundevelrun/free-visit-counter)
+    - [free-visitor-counter-npm-package](https://github.com/rundevelrun/free-visitor-counter)
 
 ## 👀 데모
 
