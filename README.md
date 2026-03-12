@@ -20,9 +20,9 @@
 
 ## 👀 데모
 
-👉 [실시간 데모 보기](https://6developer.com)
+👉 [실시간 데모 보기](https://rundevelrun.com)
 
-이 스타터는 실제 블로그 [6developer.com](https://6developer.com)에서 사용되고 있습니다.
+이 스타터는 실제 블로그 [rundevelrun.com](https://rundevelrun.com)에서 사용되고 있습니다.
 
 ## 🛠️ 빠른 시작
 
@@ -42,7 +42,7 @@ gatsby develop
 
 이 스타터를 기반으로 만든 블로그가 있다면 PR로 추가해주세요!
 
-- [6developer.com](https://6developer.com)
+- [rundevelrun.com](https://rundevelrun.com)
 - [pang-ho.github.io](http://pang-ho.github.io/)
 - [dhbang.co.kr](https://dhbang.co.kr/)
 - [stock-insights-hub.github.io](https://stock-insights-hub.github.io/)
@@ -69,3 +69,4 @@ gatsby develop
 </a>
 
 이 스타터가 도움이 되셨다면 Star로 응원해주세요! ⭐️
+
